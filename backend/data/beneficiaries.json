@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://placekitten.com/200/300",
+    "fullName": "Mohamed Abdirahman",
+    "mobile": "612345678",
+    "targetGroup": "Household"
+  },
+  {
+    "id": 2,
+    "avatar": "https://placekitten.com/200/400",
+    "fullName": "Alas Abdullahi",
+    "mobile": "772345678",
+    "targetGroup": "FHS"
+  },
+  {
+    "id": 3,
+    "avatar": "https://placekitten.com/200/500",
+    "fullName": "Imran Abdirahman",
+    "mobile": "903456789",
+    "targetGroup": "Household"
+  }
+]
